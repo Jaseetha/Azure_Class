@@ -884,15 +884,15 @@ Banner Style
 
 .main-banner:before {
   content: ''; 
-  background: url(../images/finnopsgif4.gif);
+  background: url(../images/our\ expert\ domains.gif);
   /* background-image: url(../images/banner-right-image_1.png); */
   background-repeat: no-repeat;
   background-size: cover; 
   position: absolute;
-  right: 0;
+  right: 0;s
   top: 100px;
-  width: 500px;
-  height: 580px;
+  width: 480px;
+  height: 530px;
   /* top: 100px;
   width: 819px;
   height: 674px; */
